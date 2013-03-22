@@ -1,0 +1,23 @@
+{
+  "name": "bubble-chart",
+  "version": "0.1.0",
+  "description": "Bubble chart based on D3 library.",
+  "main": "app.iced",
+  "dependencies": {
+    "express": "~3.1.0",
+    "iced-coffee-script": "~1.4.0c",
+    "jade": "~0.28.2",
+    "less": "~1.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/titarenko/bubble-chart.git"
+  },
+  "keywords": [
+    "chart",
+    "bubble",
+    "keyword"
+  ],
+  "author": "Constantin Titarenko",
+  "license": "BSD"
+}
