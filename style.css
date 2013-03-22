@@ -1,0 +1,4 @@
+body{margin:0;overflow:hidden;}
+.bubble-chart-background{fill:#080;}
+.bubble-chart-bubble{fill:#800;}
+.bubble-chart-caption{position:absolute;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;color:#fff;text-align:center;cursor:default;}
